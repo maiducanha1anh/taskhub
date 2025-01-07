@@ -1,2 +1,0 @@
-cong_viec_gap
-quan_trong
